@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Akter</h1>
-<h3 align="center">A frontend developer from Bangladesh</h3>
+<h3 align="center">A graduate from CSE majoring in Data Science from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-398&label=Profile%20views&color=0e75b6&style=flat" alt="anika-398" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **CSS,HTML,C++, Python, Machine Learning etc.**
 
-- 📫 How to reach me **anikasumaiya9@gmail.com**
+- 📫 How to reach me **sumaiya.akterdhaka807@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
