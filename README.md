@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anika-398&label=Profile%20views&color=0e75b6&style=flat" alt="anika-398" /> </p>
 
-- 🌱 I’m currently learning **different fronted web development projects**
+- 🌱 I’m currently learning **data analysis, and front-end web development projects**
 
 - 💬 Ask me about **CSS,HTML,C++, Python, Machine Learning etc.**
 
